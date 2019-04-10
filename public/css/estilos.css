@@ -1,0 +1,39 @@
+div#head
+{
+    background-color: #1a313f;
+    color: grey;
+}
+div#ti
+{
+    font-size: small;
+}
+div#titulo
+{
+    font-family: "Century Schoolbook L";
+    font-size: small;
+}
+div#tem{
+    background-color: #2a9055;
+}
+div#footer
+{
+    background-color: #203e4e;
+    text-align: left;
+    font-family: "Bitstream Charter";
+    font-size: medium;
+}
+
+div#contenedor2
+{
+    background-color: #203e4e;
+    text-align: center;
+    font-family: "Bitstream Charter";
+    font-size: medium;
+}
+div#contenedor3
+{
+    background-color: #203e4e;
+    text-align: right;
+    font-family: "Bitstream Charter";
+    font-size: medium;
+}
